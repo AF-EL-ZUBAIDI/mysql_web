@@ -1,4 +1,4 @@
-# MySQL Web Project
+# Web Page with MySQL
 
 ## Introduction
 This repository provides a step-by-step guide for setting up a PHP and MySQL web application using XAMPP. It's a straightforward tutorial for beginners and a quick setup for seasoned developers to start a local web project.
